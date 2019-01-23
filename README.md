@@ -20,7 +20,7 @@ $ omf install take
 ## Usage
 
 ```fish
-$ take
+$ take your/new/folder
 ```
 
 
