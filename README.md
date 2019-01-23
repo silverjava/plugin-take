@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install take
+$ omf install https://github.com/silverjava/plugin-take
 ```
 
 
